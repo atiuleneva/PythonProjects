@@ -1,0 +1,7 @@
+Andreeva 25000
+Bobrov 43750
+Davidova 35735
+Fedorov 14000
+Gluhov 27000
+Petrov 12460
+Sidorova 8500
