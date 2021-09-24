@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2454cb17-d9f3-45ef-8b1b-9a1e5e41839f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../DZ4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DZ4/payroll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/.idea/dz5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/dz_file_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/dz_file_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/dz_file_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/dz_file_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz5/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
